@@ -1,0 +1,132 @@
+@charset "UTF-8";
+.container{ 
+    background-color:rgb white; 
+    width: 900px;
+    margin: 0 auto 0 auto;
+}
+
+.container1{
+    width: 300px;
+    margin: 0 auto 0 auto;
+}
+.part-haut{
+    float: left;
+    background-color: magenta;
+    width: 900px;
+    text-align: center;
+    font-family: fantasy;
+    
+}
+.part-haut2{
+    float: left;
+    background-color: lightpink;
+    width: 900px;
+    text-align: center;
+}
+
+.content-left{
+    width: 34%;
+    float: left;
+}
+.content-right {
+    width: 33%;
+    float: right;
+}
+footer{
+    text-align: center;
+    color: blue;
+    padding: 10px;
+}
+.clearfix{
+    clear: both;
+}
+.part-center{
+    float: left;
+    width: 33%;
+
+}
+.part-nom{
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+
+}
+
+.bar{
+    padding: 10px;
+    float: right;
+}
+
+.bar nav a{
+    padding: 10px;
+}
+.bar nav a:hover{
+    background-color: plum;
+    color: chartreuse;
+    border-radius: 10px 10px 0 0;
+}
+
+#s1{
+    background-color: aqua;  
+}
+
+#s2{
+    background-color: aquamarine;
+}
+
+
+#s6{
+    background-color: plum;  
+}
+
+#s7{
+    background-color: turquoise;
+    border-bottom: 3px solid rebeccapurple;
+    border-top: 3px solid rebeccapurple; 
+}
+
+#form-contact div{
+    margin-top: 10px;
+}
+
+#produits thead{
+    font-weight: bold;
+    background-color: khaki;
+    color: blue;
+}
+
+#produits{
+    border-collapse: collapse
+}
+
+#produits td{
+    padding: 5px 25px;
+}
+
+#produits tbody tr:nth-child(odd) {
+    background-color: hotpink;
+}
+
+.part-center1{
+    text-align: center;
+    font-family: cursive;
+    font-size: 25px;
+}
+
+.title1{
+    text-align: left;
+    font-family: cursive;
+    font-size: 15px;
+    color: blue;
+}
+
+.table{
+	border: medium;
+	width : 50%;
+	text-align: center;
+	border: 3px solid rebeccapurple;
+	border-collapse : collapse;
+	background : #ddffff;
+	
+}
+	

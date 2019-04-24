@@ -73,7 +73,7 @@
 	<section class="container">
 		<h2>Liste des personnes</h2>
 		<table class="table">
-			<thead>
+			<thead> 
 				<tr>
 					<td>ID</td>
 					<td>Nom</td>
